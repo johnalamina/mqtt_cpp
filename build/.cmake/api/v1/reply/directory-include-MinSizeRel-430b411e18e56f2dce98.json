@@ -1,0 +1,128 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"include/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 72,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"include/mqtt_client_cpp.hpp",
+				"include/mqtt_server_cpp.hpp"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/mqtt",
+			"paths" : 
+			[
+				"include/mqtt/any.hpp",
+				"include/mqtt/async_client.hpp",
+				"include/mqtt/attributes.hpp",
+				"include/mqtt/buffer.hpp",
+				"include/mqtt/callable_overlay.hpp",
+				"include/mqtt/client.hpp",
+				"include/mqtt/config.hpp",
+				"include/mqtt/connect_flags.hpp",
+				"include/mqtt/connect_return_code.hpp",
+				"include/mqtt/const_buffer_util.hpp",
+				"include/mqtt/constant.hpp",
+				"include/mqtt/control_packet_type.hpp",
+				"include/mqtt/deprecated.hpp",
+				"include/mqtt/deprecated_msg.hpp",
+				"include/mqtt/endpoint.hpp",
+				"include/mqtt/error_code.hpp",
+				"include/mqtt/exception.hpp",
+				"include/mqtt/fixed_header.hpp",
+				"include/mqtt/four_byte_util.hpp",
+				"include/mqtt/hexdump.hpp",
+				"include/mqtt/log.hpp",
+				"include/mqtt/message.hpp",
+				"include/mqtt/message_variant.hpp",
+				"include/mqtt/move.hpp",
+				"include/mqtt/namespace.hpp",
+				"include/mqtt/null_strand.hpp",
+				"include/mqtt/optional.hpp",
+				"include/mqtt/packet_id_manager.hpp",
+				"include/mqtt/packet_id_type.hpp",
+				"include/mqtt/property.hpp",
+				"include/mqtt/property_id.hpp",
+				"include/mqtt/property_parse.hpp",
+				"include/mqtt/property_variant.hpp",
+				"include/mqtt/protocol_version.hpp",
+				"include/mqtt/publish.hpp",
+				"include/mqtt/reason_code.hpp",
+				"include/mqtt/remaining_length.hpp",
+				"include/mqtt/server.hpp",
+				"include/mqtt/session_present.hpp",
+				"include/mqtt/setup_log.hpp",
+				"include/mqtt/shared_ptr_array.hpp",
+				"include/mqtt/shared_scope_guard.hpp",
+				"include/mqtt/shared_subscriptions.hpp",
+				"include/mqtt/store.hpp",
+				"include/mqtt/strand.hpp",
+				"include/mqtt/string_check.hpp",
+				"include/mqtt/string_view.hpp",
+				"include/mqtt/subscribe_entry.hpp",
+				"include/mqtt/subscribe_options.hpp",
+				"include/mqtt/sync_client.hpp",
+				"include/mqtt/tcp_endpoint.hpp",
+				"include/mqtt/time_point_t.hpp",
+				"include/mqtt/tls.hpp",
+				"include/mqtt/topic_alias_recv.hpp",
+				"include/mqtt/topic_alias_send.hpp",
+				"include/mqtt/two_byte_util.hpp",
+				"include/mqtt/two_or_four_byte_util.hpp",
+				"include/mqtt/type.hpp",
+				"include/mqtt/type_erased_socket.hpp",
+				"include/mqtt/unique_scope_guard.hpp",
+				"include/mqtt/utf8encoded_strings.hpp",
+				"include/mqtt/v5_message.hpp",
+				"include/mqtt/value_allocator.hpp",
+				"include/mqtt/variable_length.hpp",
+				"include/mqtt/variant.hpp",
+				"include/mqtt/variant_visit.hpp",
+				"include/mqtt/visitor_util.hpp",
+				"include/mqtt/will.hpp",
+				"include/mqtt/ws_endpoint.hpp"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "include",
+		"source" : "include"
+	}
+}

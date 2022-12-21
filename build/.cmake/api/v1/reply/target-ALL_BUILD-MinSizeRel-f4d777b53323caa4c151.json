@@ -1,0 +1,210 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "st_receive_maximum::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_as_buffer_async_pubsub_1::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_topic_alias::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_as_buffer_sub::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_pubsub_1::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_pubsub_no_strand::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_sub::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_pubsub_2::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_connect::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_as_buffer_async_pubsub_2::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_reqres::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_as_buffer_pubsub::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_shared_sub::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_maximum_packet_size::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_async_pubsub_1::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_resend::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_underlying_timeout::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_multi_sub::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "ut_retained_topic_map::@eef10db73b2f22524f92"
+		},
+		{
+			"id" : "st_manual_publish::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_resend_new_client::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_remaining_length::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "ut_packet_id::@eef10db73b2f22524f92"
+		},
+		{
+			"id" : "ut_code::@eef10db73b2f22524f92"
+		},
+		{
+			"id" : "ut_buffer::@eef10db73b2f22524f92"
+		},
+		{
+			"id" : "st_offline::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "ut_utf8string_validate::@eef10db73b2f22524f92"
+		},
+		{
+			"id" : "ut_topic_alias::@eef10db73b2f22524f92"
+		},
+		{
+			"id" : "st_length_check::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "ut_message::@eef10db73b2f22524f92"
+		},
+		{
+			"id" : "ut_property::@eef10db73b2f22524f92"
+		},
+		{
+			"id" : "st_retain_2::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_async_pubsub_2::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_broker_offline_message::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_will::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_issue_749::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_resend_serialize::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_retain_1::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_utf8string_validate::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "st_resend_serialize_ptr_size::@c3a7fe79a1bcdddfb1d3"
+		},
+		{
+			"id" : "ut_subscription_map::@eef10db73b2f22524f92"
+		},
+		{
+			"id" : "no_tls_server::@70983d692f648185febe"
+		},
+		{
+			"id" : "ut_subscription_map_broker::@eef10db73b2f22524f92"
+		},
+		{
+			"id" : "ut_retained_topic_map_broker::@eef10db73b2f22524f92"
+		},
+		{
+			"id" : "no_tls_client::@70983d692f648185febe"
+		},
+		{
+			"id" : "no_tls_both::@70983d692f648185febe"
+		},
+		{
+			"id" : "long_lived_client::@70983d692f648185febe"
+		},
+		{
+			"id" : "redirect::@70983d692f648185febe"
+		},
+		{
+			"id" : "broker::@70983d692f648185febe"
+		},
+		{
+			"id" : "ut_shared_subscriptions::@eef10db73b2f22524f92"
+		},
+		{
+			"id" : "ut_broker_security::@eef10db73b2f22524f92"
+		},
+		{
+			"id" : "no_tls_async_client::@70983d692f648185febe"
+		},
+		{
+			"id" : "v5_no_tls_both::@70983d692f648185febe"
+		},
+		{
+			"id" : "v5_no_tls_server::@70983d692f648185febe"
+		},
+		{
+			"id" : "v5_no_tls_prop::@70983d692f648185febe"
+		},
+		{
+			"id" : "v5_no_tls_client::@70983d692f648185febe"
+		},
+		{
+			"id" : "bench::@70983d692f648185febe"
+		},
+		{
+			"id" : "ut_value_allocator::@eef10db73b2f22524f92"
+		},
+		{
+			"id" : "no_tls_async_client_reconnect::@70983d692f648185febe"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

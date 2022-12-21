@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\CMakeFiles\dea6025ca7b5f863c042a4fb14aa0d43\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3B9C910D-1033-3B89-BC55-BC71C712FF23}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

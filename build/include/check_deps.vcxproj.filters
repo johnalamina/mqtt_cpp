@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\any.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\async_client.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\attributes.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\broker.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\broker_namespace.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\common_type.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\constant.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\inflight_message.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\mutex.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\offline_message.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\property_util.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\retain_t.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\retained_messages.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\retained_topic_map.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\security.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\session_state.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\session_state_fwd.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\shared_target.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\shared_target_impl.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\sub_con_map.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\subscription.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\subscription_map.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\tags.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\time_point_t.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\topic_filter.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\uuid.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\buffer.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\callable_overlay.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\client.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\config.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\connect_flags.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\connect_return_code.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\const_buffer_util.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\control_packet_type.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\deprecated.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\deprecated_msg.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\endpoint.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\error_code.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\exception.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\fixed_header.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\four_byte_util.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\hexdump.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\log.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\message.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\message_variant.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\move.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\namespace.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\null_strand.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\optional.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\packet_id_manager.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\packet_id_type.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\property.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\property_id.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\property_parse.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\property_variant.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\protocol_version.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\publish.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\reason_code.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\remaining_length.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\server.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\session_present.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\setup_log.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\shared_ptr_array.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\shared_scope_guard.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\shared_subscriptions.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\store.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\strand.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\string_check.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\string_view.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\subscribe_entry.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\subscribe_options.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\sync_client.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\tcp_endpoint.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\tls.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\topic_alias_recv.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\topic_alias_send.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\two_byte_util.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\two_or_four_byte_util.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\type.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\type_erased_socket.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\unique_scope_guard.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\utf8encoded_strings.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\v5_message.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\value_allocator.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\variable_length.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\variant.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\variant_visit.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\visitor_util.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\will.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\build\check_deps_headers\ws_endpoint.hpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\include\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7B94C655-58DD-37DE-A1B8-69A8D0D742C0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

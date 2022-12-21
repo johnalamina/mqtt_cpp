@@ -1,0 +1,1124 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "include/check_deps.dir/Release/any.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/async_client.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/attributes.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/broker.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/broker_namespace.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/common_type.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/constant.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/inflight_message.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/mutex.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/offline_message.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/property_util.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/retain_t.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/retained_messages.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/retained_topic_map.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/security.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/session_state.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/session_state_fwd.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/shared_target.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/shared_target_impl.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/sub_con_map.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/subscription.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/subscription_map.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/tags.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/time_point_t.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/topic_filter.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/uuid.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/buffer.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/callable_overlay.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/client.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/config.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/connect_flags.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/connect_return_code.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/const_buffer_util.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/control_packet_type.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/deprecated.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/deprecated_msg.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/endpoint.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/error_code.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/exception.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/fixed_header.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/four_byte_util.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/hexdump.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/log.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/message.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/message_variant.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/move.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/namespace.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/null_strand.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/optional.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/packet_id_manager.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/packet_id_type.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/property.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/property_id.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/property_parse.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/property_variant.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/protocol_version.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/publish.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/reason_code.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/remaining_length.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/server.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/session_present.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/setup_log.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/shared_ptr_array.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/shared_scope_guard.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/shared_subscriptions.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/store.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/strand.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/string_check.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/string_view.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/subscribe_entry.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/subscribe_options.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/sync_client.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/tcp_endpoint.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/tls.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/topic_alias_recv.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/topic_alias_send.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/two_byte_util.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/two_or_four_byte_util.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/type.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/type_erased_socket.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/unique_scope_guard.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/utf8encoded_strings.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/v5_message.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/value_allocator.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/variable_length.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/variant.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/variant_visit.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/visitor_util.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/will.hpp.obj"
+		},
+		{
+			"path" : "include/check_deps.dir/Release/ws_endpoint.hpp.obj"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"_add_library",
+			"ADD_LIBRARY",
+			"TARGET_COMPILE_OPTIONS",
+			"TARGET_LINK_LIBRARIES"
+		],
+		"files" : 
+		[
+			"C:/programs/vcpkg/scripts/buildsystems/vcpkg.cmake",
+			"include/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 62,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 613,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 67,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 69,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/bigobj /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-unused-const-variable"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "/Zs"
+				},
+				{
+					"fragment" : "-std:c++14"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "MQTT_ALWAYS_SEND_REASON_CODE=1"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "MQTT_USE_STR_CHECK"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "C:/Users/john.alamina/Favorites/resources/de10/mqtt_cpp/include"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "C:/programs/vcpkg/installed/x64-windows/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "14"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "check_deps::@14b3099d61bfdbeae804",
+	"name" : "check_deps",
+	"paths" : 
+	{
+		"build" : "include",
+		"source" : "include"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/any.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/async_client.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/attributes.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/broker.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/broker_namespace.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/common_type.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/constant.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/inflight_message.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/mutex.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/offline_message.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/property_util.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/retain_t.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/retained_messages.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/retained_topic_map.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/security.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/session_state.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/session_state_fwd.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/shared_target.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/shared_target_impl.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/sub_con_map.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/subscription.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/subscription_map.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/tags.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/time_point_t.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/topic_filter.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/uuid.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/buffer.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/callable_overlay.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/client.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/config.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/connect_flags.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/connect_return_code.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/const_buffer_util.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/control_packet_type.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/deprecated.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/deprecated_msg.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/endpoint.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/error_code.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/exception.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/fixed_header.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/four_byte_util.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/hexdump.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/log.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/message.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/message_variant.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/move.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/namespace.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/null_strand.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/optional.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/packet_id_manager.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/packet_id_type.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/property.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/property_id.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/property_parse.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/property_variant.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/protocol_version.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/publish.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/reason_code.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/remaining_length.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/server.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/session_present.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/setup_log.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/shared_ptr_array.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/shared_scope_guard.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/shared_subscriptions.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/store.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/strand.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/string_check.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/string_view.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/subscribe_entry.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/subscribe_options.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/sync_client.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/tcp_endpoint.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/tls.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/topic_alias_recv.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/topic_alias_send.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/two_byte_util.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/two_or_four_byte_util.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/type.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/type_erased_socket.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/unique_scope_guard.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/utf8encoded_strings.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/v5_message.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/value_allocator.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/variable_length.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/variant.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/variant_visit.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/visitor_util.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/will.hpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "build/check_deps_headers/ws_endpoint.hpp.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

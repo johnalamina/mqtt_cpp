@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\test\system\st_utf8string_validate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\john.alamina\Favorites\resources\de10\mqtt_cpp\test\system\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7B94C655-58DD-37DE-A1B8-69A8D0D742C0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
